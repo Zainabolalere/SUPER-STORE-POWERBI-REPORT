@@ -170,19 +170,6 @@ Front-load inventory procurement and increase marketing budget allocation for **
 
 ---
 
-## Business Impact Summary
-
-**Three immediate value drivers identified:**
-
-✅ Fix negative-margin products → **$15K-20K recovery**
-
-✅ 5% customer spend increase → **$115K revenue gain**
-
-✅ Close regional performance gap → **$334K potential**
-
-**Combined Addressable Opportunity: $460K+**
-
----
 
 ## DAX Measures Created
 ```dax
