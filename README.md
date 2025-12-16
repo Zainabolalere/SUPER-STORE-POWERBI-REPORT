@@ -199,23 +199,14 @@ Customer Count = DISTINCTCOUNT(Customers[Customer ID])
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
 ```
 
----
 
 ## Contact
 
-Created by **[Your Name]**
+Created by **Zainab Olalere**
 
-**Open to opportunities in Business Intelligence and Data Analytics**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zainab-olalere-6424091a4/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
-
----
-
-## Acknowledgments
-
-This project was completed as part of the **DSN AI+ Program** - Microsoft-supported Power BI Associate training by **Data Science Nigeria**.
+![Thank you](Thank%20you.png)
 
 ---
 
