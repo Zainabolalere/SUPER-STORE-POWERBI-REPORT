@@ -78,7 +78,7 @@ The dataset used for this project includes:
 ![Sales & Performance Overview](Sales%20&%20Performance%20Insights.png)
 
 ### 2. Customer Insights
-![Customer Insights](dashboards/customer_insights.png)
+![Customer Insights](Customer%20Insights.png)
 
 ### 3. Regional & States Insights
 ![Regional & States Insights](dashboards/regional_insights.png)
