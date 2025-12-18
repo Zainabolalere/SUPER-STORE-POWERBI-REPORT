@@ -75,7 +75,7 @@ The dataset used for this project includes:
 ## Dashboard
 
 ### 1. Sales & Performance Overview
-![Sales & Performance Overview](Sales%&%Performance&Insights.png)
+![Sales & Performance Overview](Sales%20&%20Performance&20Insights.png)
 
 ### 2. Customer Insights
 ![Customer Insights](dashboards/customer_insights.png)
