@@ -75,7 +75,7 @@ The dataset used for this project includes:
 ## Dashboard
 
 ### 1. Sales & Performance Overview
-![Sales & Performance Overview](dashboards/sales_performance.png)
+![Sales & Performance Overview](Sales%&%performance.png)
 
 ### 2. Customer Insights
 ![Customer Insights](dashboards/customer_insights.png)
@@ -195,9 +195,5 @@ Created by **Zainab Olalere**
 
 ![Thank you](Thank%20you.png)
 
----
 
-**#PowerBI #DataAnalytics #BusinessIntelligence #DSN #AIPlusProgram**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
