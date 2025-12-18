@@ -81,7 +81,7 @@ The dataset used for this project includes:
 ![Customer Insights](customer%20Insights.png)
 
 ### 3. Regional & States Insights
-![Regional & States Insights](dashboards/regional_insights.png)
+![Regional & States Insights](Regional%20&20States%20Insights.png)
 
 ### 4. Profitability Analysis
 ![Profitability Analysis](dashboards/profitability_analysis.png)
