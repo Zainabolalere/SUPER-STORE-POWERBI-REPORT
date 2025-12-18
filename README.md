@@ -84,7 +84,7 @@ The dataset used for this project includes:
 ![Regional & States Insights](Regional%20and%20States%20Insights.png)
 
 ### 4. Profitability Analysis
-![Profitability Analysis](Profitability%20analysis.png)
+![Profitability Analysis](Profitability%20Analysis.png)
 
 ## Insights
 
